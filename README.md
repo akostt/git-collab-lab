@@ -20,3 +20,7 @@
 git clone https://github.com/akostt/git-collab-lab.git
 cd git-collab-lab
 ```
+
+## Описание проекта
+
+Учебный репозиторий для отработки команд Git и совместной работы на GitHub.
