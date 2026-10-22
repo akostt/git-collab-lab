@@ -13,3 +13,10 @@
 ## Работа из форка
 
 Раздел добавлен в форке и перенесён в основной репозиторий.
+
+## Установка
+
+```bash
+git clone https://github.com/akostt/git-collab-lab.git
+cd git-collab-lab
+```
